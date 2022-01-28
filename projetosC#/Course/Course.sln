@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipoDeDados", "Course\TipoD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaidaDeDados", "SaidaDeDados\SaidaDeDados.csproj", "{67C04B70-A31B-4C14-9895-952B4BB1B064}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresDeAtribuicao", "OperadoresDeAtribuicao\OperadoresDeAtribuicao.csproj", "{CA432081-CC72-4E94-B435-B563F1A4C090}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{67C04B70-A31B-4C14-9895-952B4BB1B064}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67C04B70-A31B-4C14-9895-952B4BB1B064}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67C04B70-A31B-4C14-9895-952B4BB1B064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA432081-CC72-4E94-B435-B563F1A4C090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA432081-CC72-4E94-B435-B563F1A4C090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA432081-CC72-4E94-B435-B563F1A4C090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA432081-CC72-4E94-B435-B563F1A4C090}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
