@@ -12,3 +12,17 @@ C:\Users\AlexandreJS\OneDrive\DevSuperior\Udemy\C# Orientação a Objetos\ws-vs2
 C:\Users\AlexandreJS\OneDrive\DevSuperior\Udemy\C# Orientação a Objetos\ws-vs2019\projetos\Course\Course\obj\Debug\netcoreapp3.1\Course.dll
 C:\Users\AlexandreJS\OneDrive\DevSuperior\Udemy\C# Orientação a Objetos\ws-vs2019\projetos\Course\Course\obj\Debug\netcoreapp3.1\Course.pdb
 C:\Users\AlexandreJS\OneDrive\DevSuperior\Udemy\C# Orientação a Objetos\ws-vs2019\projetos\Course\Course\obj\Debug\netcoreapp3.1\Course.genruntimeconfig.cache
+C:\Users\AlexandreJS\OneDrive\DevSuperior\Udemy\C# Orientação a Objetos\ws-vs2019\projetosC#\Course\Course\bin\Debug\netcoreapp3.1\Course.exe
+C:\Users\AlexandreJS\OneDrive\DevSuperior\Udemy\C# Orientação a Objetos\ws-vs2019\projetosC#\Course\Course\bin\Debug\netcoreapp3.1\Course.deps.json
+C:\Users\AlexandreJS\OneDrive\DevSuperior\Udemy\C# Orientação a Objetos\ws-vs2019\projetosC#\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.json
+C:\Users\AlexandreJS\OneDrive\DevSuperior\Udemy\C# Orientação a Objetos\ws-vs2019\projetosC#\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.dev.json
+C:\Users\AlexandreJS\OneDrive\DevSuperior\Udemy\C# Orientação a Objetos\ws-vs2019\projetosC#\Course\Course\bin\Debug\netcoreapp3.1\Course.dll
+C:\Users\AlexandreJS\OneDrive\DevSuperior\Udemy\C# Orientação a Objetos\ws-vs2019\projetosC#\Course\Course\bin\Debug\netcoreapp3.1\Course.pdb
+C:\Users\AlexandreJS\OneDrive\DevSuperior\Udemy\C# Orientação a Objetos\ws-vs2019\projetosC#\Course\Course\obj\Debug\netcoreapp3.1\Course.csproj.AssemblyReference.cache
+C:\Users\AlexandreJS\OneDrive\DevSuperior\Udemy\C# Orientação a Objetos\ws-vs2019\projetosC#\Course\Course\obj\Debug\netcoreapp3.1\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexandreJS\OneDrive\DevSuperior\Udemy\C# Orientação a Objetos\ws-vs2019\projetosC#\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfoInputs.cache
+C:\Users\AlexandreJS\OneDrive\DevSuperior\Udemy\C# Orientação a Objetos\ws-vs2019\projetosC#\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfo.cs
+C:\Users\AlexandreJS\OneDrive\DevSuperior\Udemy\C# Orientação a Objetos\ws-vs2019\projetosC#\Course\Course\obj\Debug\netcoreapp3.1\Course.csproj.CoreCompileInputs.cache
+C:\Users\AlexandreJS\OneDrive\DevSuperior\Udemy\C# Orientação a Objetos\ws-vs2019\projetosC#\Course\Course\obj\Debug\netcoreapp3.1\Course.dll
+C:\Users\AlexandreJS\OneDrive\DevSuperior\Udemy\C# Orientação a Objetos\ws-vs2019\projetosC#\Course\Course\obj\Debug\netcoreapp3.1\Course.pdb
+C:\Users\AlexandreJS\OneDrive\DevSuperior\Udemy\C# Orientação a Objetos\ws-vs2019\projetosC#\Course\Course\obj\Debug\netcoreapp3.1\Course.genruntimeconfig.cache

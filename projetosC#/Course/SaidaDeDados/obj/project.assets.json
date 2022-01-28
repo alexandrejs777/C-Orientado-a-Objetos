@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AlexandreJS\\OneDrive\\DevSuperior\\Udemy\\C# Orientação a Objetos\\ws-vs2019\\projetosC#\\Course\\Course\\TipoDeDados.csproj",
-      "projectName": "TipoDeDados",
-      "projectPath": "C:\\Users\\AlexandreJS\\OneDrive\\DevSuperior\\Udemy\\C# Orientação a Objetos\\ws-vs2019\\projetosC#\\Course\\Course\\TipoDeDados.csproj",
+      "projectUniqueName": "C:\\Users\\AlexandreJS\\OneDrive\\DevSuperior\\Udemy\\C# Orientação a Objetos\\ws-vs2019\\projetosC#\\Course\\SaidaDeDados\\SaidaDeDados.csproj",
+      "projectName": "SaidaDeDados",
+      "projectPath": "C:\\Users\\AlexandreJS\\OneDrive\\DevSuperior\\Udemy\\C# Orientação a Objetos\\ws-vs2019\\projetosC#\\Course\\SaidaDeDados\\SaidaDeDados.csproj",
       "packagesPath": "C:\\Users\\AlexandreJS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AlexandreJS\\OneDrive\\DevSuperior\\Udemy\\C# Orientação a Objetos\\ws-vs2019\\projetosC#\\Course\\Course\\obj\\",
+      "outputPath": "C:\\Users\\AlexandreJS\\OneDrive\\DevSuperior\\Udemy\\C# Orientação a Objetos\\ws-vs2019\\projetosC#\\Course\\SaidaDeDados\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

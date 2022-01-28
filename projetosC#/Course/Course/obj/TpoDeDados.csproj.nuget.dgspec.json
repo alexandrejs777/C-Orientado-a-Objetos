@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AlexandreJS\\OneDrive\\DevSuperior\\Udemy\\C# Orientação a Objetos\\ws-vs2019\\projetosC#\\Course\\Course\\Course.csproj": {}
+    "C:\\Users\\AlexandreJS\\OneDrive\\DevSuperior\\Udemy\\C# Orientação a Objetos\\ws-vs2019\\projetosC#\\Course\\Course\\TpoDeDados.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AlexandreJS\\OneDrive\\DevSuperior\\Udemy\\C# Orientação a Objetos\\ws-vs2019\\projetosC#\\Course\\Course\\Course.csproj": {
+    "C:\\Users\\AlexandreJS\\OneDrive\\DevSuperior\\Udemy\\C# Orientação a Objetos\\ws-vs2019\\projetosC#\\Course\\Course\\TpoDeDados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AlexandreJS\\OneDrive\\DevSuperior\\Udemy\\C# Orientação a Objetos\\ws-vs2019\\projetosC#\\Course\\Course\\Course.csproj",
-        "projectName": "Course",
-        "projectPath": "C:\\Users\\AlexandreJS\\OneDrive\\DevSuperior\\Udemy\\C# Orientação a Objetos\\ws-vs2019\\projetosC#\\Course\\Course\\Course.csproj",
+        "projectUniqueName": "C:\\Users\\AlexandreJS\\OneDrive\\DevSuperior\\Udemy\\C# Orientação a Objetos\\ws-vs2019\\projetosC#\\Course\\Course\\TpoDeDados.csproj",
+        "projectName": "TpoDeDados",
+        "projectPath": "C:\\Users\\AlexandreJS\\OneDrive\\DevSuperior\\Udemy\\C# Orientação a Objetos\\ws-vs2019\\projetosC#\\Course\\Course\\TpoDeDados.csproj",
         "packagesPath": "C:\\Users\\AlexandreJS\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\AlexandreJS\\OneDrive\\DevSuperior\\Udemy\\C# Orientação a Objetos\\ws-vs2019\\projetosC#\\Course\\Course\\obj\\",
         "projectStyle": "PackageReference",

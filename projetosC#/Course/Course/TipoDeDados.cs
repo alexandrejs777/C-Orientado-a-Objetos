@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace Course {
-    class Program {
+    class TipoDeDados {
         static void Main(string[] args) {
 
             // Usando apenas variáveis do tipo .Net
